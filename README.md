@@ -21,5 +21,6 @@
 
 10. **Search For Other Users:** Users can actively search and discover other platform members by name, profession, or other criteria, enabling efficient networking and connection-building based on shared interests or expertise.
 
+![Front_Page](https://github.com/BoddepallyVenkatesh06/LinkedIn_Clone/blob/main/Front_Page.png)
 ---
 The website is hosted by: https://github.com/BoddepallyVenkatesh06/LinkedIn_Clone
